@@ -6,7 +6,6 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.time.Instant;
-import java.util.concurrent.atomic.AtomicInteger;
 import javax.annotation.Nonnull;
 
 public abstract class MyClass implements AuthorizationProvider {
